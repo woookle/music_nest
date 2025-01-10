@@ -15,7 +15,7 @@ MusicNest API — это RESTful API, разработанный на NestJS, к
 
 1. **🔗 Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/yourusername/music_nest.git
+   git clone https://github.com/woookle/music_nest.git
    cd music_nest
 2. **📦 Установите зависимости**
    ```bash
